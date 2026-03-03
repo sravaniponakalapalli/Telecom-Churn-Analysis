@@ -87,9 +87,9 @@ Top churn drivers:
 - With 40% retention success, potential revenue protection: **$1.37M**
 
 ---
-
+![Vote Share Percentage](https://github.com/sravaniponakalapalli/images/blob/main/AP%202.png?raw=true)
 ## 📈 Dashboard Structure
-![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/Screenshot%202024-07-23%20163757.png)
+![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/Screenshot%202026-03-03%20163844.png)
 ### Page 1 — Executive Overview
 - Churn KPIs
 - Contract & Tenure Risk Analysis
