@@ -125,9 +125,3 @@ This analysis demonstrates how combining segmentation, predictive modeling, and 
 - Reduce churn strategically
 - Avoid blanket discounting
 - Protect multi-million-dollar revenue exposure
-
----
-
-## 📬 Connect
-
-If you're interested in discussing churn analytics, predictive modeling, or business intelligence projects, feel free to connect.
