@@ -89,7 +89,7 @@ Top churn drivers:
 ---
 
 ## 📈 Dashboard Structure
-![Dashboard Preview](images/blob/main/Screenshot%202024-07-23%20163757.png)
+![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/Screenshot%202024-07-23%20163757.png)
 ### Page 1 — Executive Overview
 - Churn KPIs
 - Contract & Tenure Risk Analysis
