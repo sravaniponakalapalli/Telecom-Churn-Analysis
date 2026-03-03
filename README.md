@@ -87,19 +87,19 @@ Top churn drivers:
 - With 40% retention success, potential revenue protection: **$1.37M**
 
 ---
-![Vote Share Percentage](https://github.com/sravaniponakalapalli/images/blob/main/AP%202.png?raw=true)
+
 ## 📈 Dashboard Structure
 ![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/Screenshot%202026-03-03%20163844.png)
 ### Page 1 — Executive Overview
 - Churn KPIs
 - Contract & Tenure Risk Analysis
 - Revenue Exposure
-
+![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/Screenshot%202026-03-03%20163913.png)
 ### Page 2 — Behavioral Risk Drivers
 - Downtime impact
 - Payment behavior analysis
 - Risk segmentation
-
+![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/Screenshot%202026-03-03%20163939.png)
 ### Page 3 — Predictive & Strategic Layer
 - Model performance
 - Feature importance
